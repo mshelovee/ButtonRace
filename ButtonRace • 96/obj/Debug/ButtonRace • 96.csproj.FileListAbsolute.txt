@@ -1,0 +1,10 @@
+C:\Users\tenge\OneDrive\Masaüstü\halley\ButtonRace • 96\ButtonRace • 96\bin\Debug\ButtonRace • 96.exe.config
+C:\Users\tenge\OneDrive\Masaüstü\halley\ButtonRace • 96\ButtonRace • 96\bin\Debug\ButtonRace • 96.exe
+C:\Users\tenge\OneDrive\Masaüstü\halley\ButtonRace • 96\ButtonRace • 96\bin\Debug\ButtonRace • 96.pdb
+C:\Users\tenge\OneDrive\Masaüstü\halley\ButtonRace • 96\ButtonRace • 96\obj\Debug\ButtonRace • 96.csproj.AssemblyReference.cache
+C:\Users\tenge\OneDrive\Masaüstü\halley\ButtonRace • 96\ButtonRace • 96\obj\Debug\ButtonRace___96.Form1.resources
+C:\Users\tenge\OneDrive\Masaüstü\halley\ButtonRace • 96\ButtonRace • 96\obj\Debug\ButtonRace___96.Properties.Resources.resources
+C:\Users\tenge\OneDrive\Masaüstü\halley\ButtonRace • 96\ButtonRace • 96\obj\Debug\ButtonRace • 96.csproj.GenerateResource.cache
+C:\Users\tenge\OneDrive\Masaüstü\halley\ButtonRace • 96\ButtonRace • 96\obj\Debug\ButtonRace • 96.csproj.CoreCompileInputs.cache
+C:\Users\tenge\OneDrive\Masaüstü\halley\ButtonRace • 96\ButtonRace • 96\obj\Debug\ButtonRace • 96.exe
+C:\Users\tenge\OneDrive\Masaüstü\halley\ButtonRace • 96\ButtonRace • 96\obj\Debug\ButtonRace • 96.pdb
